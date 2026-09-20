@@ -2,7 +2,7 @@
 
 **Open-source vehicle dynamics and design simulator for Formula SAE vehicles.**
 
-🌐 **[Live Demo](https://diegolin156.github.io/Simulador-general-para-dise-o-de-auto-de-FSAE/)**
+🌐 **[Live Demo](https://diegolin156.github.io/Open-source-FSAE-Vehicle-Dynamics-Simulator/)**
 
 ---
 
@@ -260,7 +260,7 @@ No installation is required for the live version.
 
 **Live application:**
 
-[https://diegolin156.github.io/Simulador-general-para-dise-o-de-auto-de-FSAE/](https://diegolin156.github.io/Simulador-general-para-dise-o-de-auto-de-FSAE/)
+[https://diegolin156.github.io/Open-source-FSAE-Vehicle-Dynamics-Simulator/)
 
 ---
 
