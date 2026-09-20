@@ -305,7 +305,8 @@ The project is based on established vehicle dynamics concepts and models, includ
 
 ## 📄 License
 
-[Add your chosen license here.]
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
